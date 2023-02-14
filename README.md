@@ -14,11 +14,13 @@
 
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=ReactQuery&logoColor=white"/>
-<img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=Expo&logoColor=white"/>
-DB7093
 
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongDB-47A248?style=flat&logo=MongDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
